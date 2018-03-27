@@ -1,0 +1,13 @@
+A] Install Anaconda
+commands:-
+1] curl -O https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+2] bash Anaconda3-5.0.1-Linux-x86_64.sh
+
+B] Insatall keras and tensorflow for gpu
+commands:-
+1] pip install keras-gpu
+2] pip install tensorflow-gpu
+
+C] Download nltk
+command:-
+1] pip install nltk
