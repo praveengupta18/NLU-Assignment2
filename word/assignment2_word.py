@@ -158,4 +158,3 @@ seq_length = X.shape[1]
 
 loss = model.evaluate(X,Y,batch_size=400)
 print(np.exp(loss))
-
